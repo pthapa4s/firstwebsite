@@ -1,0 +1,19 @@
+h1{
+	color:purple;
+	font-style: italic;
+	
+}
+body{
+	background-color:lightblue;
+	font-size:1.3em;
+	
+}
+p{
+	font-style:italic;
+	font-color:red;
+}
+.lol{
+	font-color: darkblue;
+	margin:20px;
+	padding:20px;
+}
